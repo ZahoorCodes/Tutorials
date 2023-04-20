@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Benefits of Delaying AJAX Calls
 ---
 
