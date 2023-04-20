@@ -1,4 +1,4 @@
 ---
-title: Benefits of Delaying AJAX Calls
+title: My Tech Blogs
 ---
 
