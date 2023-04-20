@@ -1,4 +1,4 @@
 ---
-title: My Tech Blogs
+title: ZAHOOR WRITES
 ---
 
